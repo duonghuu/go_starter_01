@@ -1,6 +1,6 @@
 # go_starter_01
-hello world
-gin
+- [x] hello world
+- [x] install gin framework
 api
 postgre
 grpc

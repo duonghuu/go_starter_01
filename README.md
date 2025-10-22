@@ -1,6 +1,6 @@
 # go_starter_01
 - [x] hello world
 - [x] install gin framework
-api
-postgre
-grpc
+- [x] postgre
+- [x] api crud users save data on db
+- [] grpc

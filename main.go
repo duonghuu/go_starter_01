@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "go_starter_01/example"
 
 func main() {
-    fmt.Println("Hello, World!")
+	example.Example_1_3()
 }
